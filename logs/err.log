@@ -1,0 +1,480 @@
+2025-08-16 17:14:09: (node:96427) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:09: (node:96428) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:09: (node:96429) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:10: (node:96500) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:10: (node:96503) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:10: (node:96504) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:10: (node:96505) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:10: (node:96506) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:11: (node:96507) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:11: (node:96511) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:11: (node:96512) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:11: (node:96513) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:12: (node:96514) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:12: (node:96515) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:12: (node:96516) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:12: (node:96517) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:13: (node:96519) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:13: (node:96520) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:13: (node:96521) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:13: (node:96522) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:13: (node:96523) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:14: (node:96525) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:14: (node:96526) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:14: (node:96527) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96528) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96529) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96532) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96533) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96534) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:15: (node:96535) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:16: (node:96536) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:16: (node:96537) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:16: (node:96538) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96539) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96540) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96541) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96542) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96543) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:17: (node:96544) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:18: (node:96545) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:18: (node:96546) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:18: (node:96547) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96549) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96550) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96551) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96552) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96553) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-08-16 17:14:19: (node:96554) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1989:18)
+    at rr (node:internal/cluster/child:163:12)
+    at Worker.<anonymous> (node:internal/cluster/child:113:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
