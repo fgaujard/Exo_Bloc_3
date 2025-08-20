@@ -33,7 +33,6 @@ app.use("/api/users", authMiddleware, userRouter);
 app.use("/api/articles", authMiddleware, articleRouter);
 app.post("/login", usersController.login);
 
-// Route publique pour récupérer les articles d'un utilisateur
 app.get(
   "/api/users/:userId/articles",
   usersController.getUserArticles.bind(usersController)
